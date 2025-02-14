@@ -1,0 +1,72 @@
+{
+      "Software Engineer": [
+        "Java", "Python", "C++", "C#", "JavaScript", "TypeScript", "Go", "Rust", "Swift", "Kotlin",
+        "Spring Boot", "Django", "Flask", "Node.js", "Express.js", "ASP.NET", "Ruby on Rails",
+        "Microservices", "REST APIs", "GraphQL", "Docker", "Kubernetes", "AWS", "Azure", "GCP",
+        "CI/CD", "Git", "Jenkins", "Agile", "Scrum", "TDD", "BDD", "Data Structures", "Algorithms",
+        "Software Development Life Cycle (SDLC)", "Object-Oriented Programming (OOP)", "Functional Programming",
+        "Design Patterns", "Scalability", "Performance Optimization", "Multithreading", "Concurrency"
+      ],
+      "Software Developer": [
+        "Object-Oriented Programming", "Functional Programming", "Design Patterns", "MVC", "MVVM",
+        "REST", "SOAP", "Microservices Architecture", "NoSQL", "SQL", "MongoDB", "PostgreSQL",
+        "Redis", "RabbitMQ", "Kafka", "Unit Testing", "Integration Testing", "JIRA", "Trello",
+        "Software Architecture", "Code Refactoring", "Version Control", "Cloud Computing",
+        "Test-Driven Development (TDD)", "Behavior-Driven Development (BDD)", "Performance Tuning"
+      ],
+      "System Designer": [
+        "System Architecture", "Scalability", "High Availability", "Fault Tolerance", "Event-Driven Architecture",
+        "Load Balancing", "Cloud Computing", "AWS Architecture", "Azure Architecture", "GCP Architecture",
+        "Networking", "Security", "Data Modeling", "Distributed Systems", "API Design", "Enterprise Architecture",
+        "Microservices", "Service-Oriented Architecture (SOA)", "Edge Computing", "Containerization"
+      ],
+      "DevOps": [
+        "CI/CD", "Jenkins", "GitLab CI", "Ansible", "Terraform", "Kubernetes", "Docker", "Helm",
+        "Prometheus", "Grafana", "Splunk", "AWS", "Azure", "GCP", "Infrastructure as Code",
+        "Linux", "Bash Scripting", "Python Scripting", "CloudFormation", "Security Compliance",
+        "Monitoring and Logging", "Configuration Management", "Load Balancing", "SRE (Site Reliability Engineering)"
+      ],
+      "Quality Assurance": [
+        "Test Automation", "Selenium", "JUnit", "TestNG", "Cypress", "Playwright", "Appium",
+        "Load Testing", "Performance Testing", "Security Testing", "Regression Testing",
+        "Manual Testing", "API Testing", "Postman", "JMeter", "SonarQube", "Bug Tracking",
+        "Defect Management", "Test Case Management", "Black Box Testing", "White Box Testing"
+      ],
+      "ML Engineer": [
+        "Machine Learning", "Deep Learning", "TensorFlow", "PyTorch", "Scikit-learn", "XGBoost",
+        "NLP", "Computer Vision", "Data Preprocessing", "Feature Engineering", "Model Deployment",
+        "MLOps", "Big Data", "Apache Spark", "Hadoop", "Pandas", "NumPy", "Data Science",
+        "Supervised Learning", "Unsupervised Learning", "Reinforcement Learning", "Time Series Analysis"
+      ],
+      "Full Stack Developer": [
+        "React", "Angular", "Vue.js", "Next.js", "Nuxt.js", "Node.js", "Express.js", "Django",
+        "Flask", "Ruby on Rails", "MongoDB", "PostgreSQL", "MySQL", "Firebase", "GraphQL",
+        "REST API", "Serverless", "Docker", "AWS Lambda", "OAuth", "JWT", "CI/CD",
+        "Authentication & Authorization", "Microservices", "WebSockets", "Progressive Web Apps (PWA)"
+      ],
+      "UX Engineer": [
+        "User Experience", "UI Design", "Interaction Design", "Figma", "Adobe XD", "Sketch",
+        "Wireframing", "Prototyping", "Usability Testing", "A/B Testing", "Accessibility",
+        "CSS", "JavaScript", "React", "Vue.js", "Material Design", "Bootstrap",
+        "Information Architecture", "Human-Computer Interaction (HCI)", "Design Thinking"
+      ],
+      "Database Engineer": [
+        "SQL", "NoSQL", "MongoDB", "PostgreSQL", "MySQL", "Oracle DB", "Redis", "Cassandra",
+        "Elasticsearch", "Data Modeling", "Database Optimization", "Query Performance Tuning",
+        "ETL", "Data Warehousing", "Big Data", "Apache Hadoop", "Snowflake",
+        "Sharding", "Replication", "Backup and Recovery", "ACID Compliance"
+      ],
+      "Frontend Developer": [
+        "HTML", "CSS", "JavaScript", "TypeScript", "React", "Vue.js", "Angular", "Svelte",
+        "Bootstrap", "Tailwind CSS", "SASS", "Webpack", "Parcel", "Vite", "ES6+",
+        "Next.js", "Nuxt.js", "Web Components", "PWA", "GraphQL", "REST APIs",
+        "Responsive Design", "Cross-Browser Compatibility", "State Management"
+      ],
+      "Backend Developer": [
+        "Node.js", "Express.js", "Django", "Flask", "Spring Boot", "Ruby on Rails", "ASP.NET",
+        "Go", "Rust", "Microservices", "REST APIs", "GraphQL", "Database Design",
+        "Message Queues", "Kafka", "RabbitMQ", "Docker", "Kubernetes", "AWS", "Azure",
+        "Authentication & Authorization", "Scalability", "Cloud Functions", "API Gateway"
+      ]
+}
+    
